@@ -1,2 +1,1 @@
-# hello-world
-My first GitHub repository. This is where I'm learning how to use GitHub.
+Hello, I'm Rupesh. I am an ECE student with a passion for both software development and embedded systems. 
